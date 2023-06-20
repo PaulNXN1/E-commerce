@@ -8,8 +8,8 @@ router.get('/', (req, res) => {
   // be sure to include its associated Product data
 
   Tag.findAll()
-  .then((category_data) => {
-    res.json(category_data)
+  .then((tag_data) => {
+    res.json(tag_data)
   }) 
 
 });

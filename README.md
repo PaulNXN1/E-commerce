@@ -21,6 +21,6 @@ The project is complete when all Module #13 assignment criteria are met.
 
 ## Deployment
 
-URL to the GitHub Repository:
+URL to the GitHub Repository: https://github.com/PaulNXN1/E-commerce
 
 Video example of the assignment [below]:
