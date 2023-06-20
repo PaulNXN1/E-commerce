@@ -44,7 +44,7 @@ router.post('/', async (req, res) => {
     res.status(200).json(category_data);
   } catch (err) {
     
-    res.status(450).send(err);
+    res.status(400).send(err);
   }
 
 });
@@ -90,11 +90,11 @@ router.delete('/:id', async (req, res) => {
     //   return;
     // }
 
-    res.status(250).json(category_data);
+    res.status(200).json(category_data);
     
   } catch (err) {
     console.log(err);
-    res.status(550).json(err);
+    res.status(500).json(err);
   }
 });
 
