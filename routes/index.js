@@ -7,4 +7,6 @@ router.use((req, res) => {
   res.send("<h1>Wrong Route!</h1>")
 });
 
+
+// Exporting router 
 module.exports = router;
