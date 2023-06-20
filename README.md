@@ -1,4 +1,4 @@
-# E-commerce - Backend Project
+# E-commerce - Backend Project 💵
 
 ## Description 💻
 
