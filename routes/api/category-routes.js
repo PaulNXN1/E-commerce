@@ -23,9 +23,9 @@ router.get('/:id', async (req, res) => {
     });
 
     if (category_data === false) {
-      res.status(404).json({message: 'Nothing found with that ID!'});
+      res.status(404).json({message: 'NADA found with that ID!'});
       return;
-    } else {
+    }  {
     res.status(200).json(category_data);  } } 
     
     catch (err) {
