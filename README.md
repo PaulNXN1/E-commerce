@@ -26,3 +26,18 @@ URL to the GitHub Repository: https://github.com/PaulNXN1/E-commerce
 Two video example of the assignment [below].
 The first video is to show how to **set up the application.**
 The second video is the **Insomnia demonstation showing the successful routing.**
+
+
+
+
+
+https://github.com/PaulNXN1/E-commerce/assets/84299358/49467b94-c677-4641-a973-1e29e7514af4
+
+
+
+
+https://github.com/PaulNXN1/E-commerce/assets/84299358/87755a4d-015a-4a01-a661-b566177a2212
+
+
+
+
