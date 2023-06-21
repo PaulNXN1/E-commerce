@@ -23,4 +23,6 @@ The project is complete when all Module #13 assignment criteria are met.
 
 URL to the GitHub Repository: https://github.com/PaulNXN1/E-commerce
 
-Video example of the assignment [below]:
+Two video example of the assignment [below].
+The first video is to show how to **set up the application.**
+The second video is the **Insomnia demonstation showing the successful routing.**
